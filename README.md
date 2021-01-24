@@ -1,1 +1,2 @@
 # time-series-clustering
+### The detailed analysis of time-series clustering for market regime detection can be found in this [blog post](https://sujit-khanna.github.io/regime-identification-using-ts-clustering/)
