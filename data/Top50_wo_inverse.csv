@@ -1,0 +1,48 @@
+TICKER,short description,Asset Class,Inverse
+QLD,QLD 2X 100 non-financials nasdaq,Equity,FALSE
+SLV,SLV silver spot price,Commodity,FALSE
+FAS,FAS 3x US large-cap financials,Equity,FALSE
+IVV,IVV Core S&P 500 ETF,Equity,FALSE
+XLY,XLY Consumer Discretionary Select Sector SPDR Fund,Equity,FALSE
+VTI,VTI Vanguard Total Stock Market ETF,Equity,FALSE
+RSX,RSX VanEck Vectors Russia ETF,Equity,FALSE
+IWO,IWO Russell 2000 Growth ETF,Equity,FALSE
+UPRO,UPRO 3x most liquid S&P500,Equity,FALSE
+LQD,LQD iBoxx USD Investment Grade Corporate Bond ETF,Fixed Income,FALSE
+SSO,SSO 2x S&P500 equity,Equity,FALSE
+GLD,GLD Gold Spot,Commodity,FALSE
+XLF,XLF S&P Financial Stocks,Equity,FALSE
+MDY,MDY S&P Midcap 400 ETF Trust,Equity,FALSE
+IAU,IAU gold spot price,Commodity,FALSE
+XLK,XLK  S&P 500 technology stocks.,Equity,FALSE
+IYR,IYR US real estate equity,Equity,FALSE
+XRT,XRT S&P Retail ETF,Equity,FALSE
+GDX,GDX gold miners equity ETF,Equity,FALSE
+SHY,SHY 1-3 Year Treasury Bond ETF,Fixed Income,FALSE
+XOP,XOP S&P Oil & Gas Exploration & Production ETF,Equity,FALSE
+TNA,TNA Small Cap Bull 3x Shares,Equity,FALSE
+EEM,EEM Emerging Markets ETF,Equity,FALSE
+JNK,JNK High Liquid High Yield Bond ETF,Fixed Income,FALSE
+XLU,XLU S&P500 Utillties Stock,Equity,FALSE
+SPY,SPY S&P500 ETF,Equity,FALSE
+XLE,XLE S&P500 Energy ETF,Equity,FALSE
+EWZ,EWZ Brazil Equity ETF,Equity,FALSE
+OIH,OIH top 25 oil services Stock ETF,Equity,FALSE
+IWM,IWM Russle Small Cap ETF,Equity,FALSE
+XLP,XLP consumer staples S&P500 ETF,Equity,FALSE
+IWF,IWF Russle 1000 Growth ETF,Equity,FALSE
+FXI,FXI 50 largest china stock ETF,Equity,FALSE
+VXX,VXX 1m Volatility ETF,Equity,FALSE
+VWO,VWO EM ex South Korea Equity ETF,Equity,FALSE
+XME,XME S&P Metals & Mining ETF,Equity,FALSE
+FXE,FXE EUR/USD ETF,Forex,FALSE
+HYG,HYG iBoxx USD High Yield Corporate Bond  ETF,Fixed Income,FALSE
+EFA,"EFA EU, AUS, Far East Equity ETF",Equity,FALSE
+XLV,XLV S&P500 Health Care ETF,Equity,FALSE
+TLT,TLT 20+ Year Treasury Bond ETF,Fixed Income,FALSE
+QQQ,QQQ Top 100 Nasdaq stocks ETF,Equity,FALSE
+ERX,ERX 2x US large cap Energy Stock ETF,Equity,FALSE
+XLB,XLB S&P500 Basic Materials Equity ETF,Equity,FALSE
+XLI,XLI S&P500 Industrial Select Sector ETF,Equity,FALSE
+USO,USO WTI Crude Oil Future ETF,Commodity,FALSE
+DIA,DIA  Dow Jones Industrial Average ETF,Equity,FALSE
